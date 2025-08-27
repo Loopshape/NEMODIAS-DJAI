@@ -1,6 +1,8 @@
 {
   "name": "Nemodias DJAI",
   "description": "A web-based audio mixer for two MP3 tracks, with independent playback controls, volume, pitch, and a crossfader and a singing voice ;) ",
-  "requestFramePermissions": [],
+  "requestFramePermissions": [
+    "microphone"
+  ],
   "prompt": ""
 }
